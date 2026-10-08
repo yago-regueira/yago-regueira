@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Yago 👋
 
-<!--
-**yago-regueira/yago-regueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student in Spain, starting from zero in
+**Digital Forensics & Incident Response (DFIR)** — and documenting every step in public.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### The journey so far
+- 🐧 **Now:** Linux fundamentals — preparing the RHCSA (EX200)
+- 🪟 **Next:** Windows internals and forensic artifacts
+- 🔬 **Building:** a reproducible home lab for forensics practice
+
+---
+
+### Follow the build: Centralized Repo
+- 📓 [cyber-notebook](https://github.com/yagoregueira/cyber-notebook) — notes, cheatsheets
+  and write-ups, updated as I learn (ES/EN)
