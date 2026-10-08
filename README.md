@@ -14,5 +14,5 @@
 ---
 
 ## Follow the build
-- 📓 [cyber-notebook](https://github.com/yagoregueira/cyber-notebook) — notes, cheatsheets
+- 📒 [cyber-notebook](https://github.com/yagoregueira/cyber-notebook) — notes, cheatsheets
   and write-ups, updated as I learn (ES/EN)
