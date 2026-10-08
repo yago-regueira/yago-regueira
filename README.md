@@ -1,7 +1,9 @@
-# Hi, I'm Yago 👋
+<h1 align="center">Hi 👋 I'm Yago Regueira</h1>
 
-Computer Science student in Spain, starting from zero in
-**Digital Forensics & Incident Response (DFIR)** — and documenting every step in public.
+<p align="center">
+CS Student
+Learning DFIR from scratch, documenting everything in public.
+</p>
 
 ---
 
