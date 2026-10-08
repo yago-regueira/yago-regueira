@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Yago Regueira</h1>
 
 <p align="center">
-CS Student
-Learning DFIR from scratch, documenting everything in public.
+  CS Student @ USC<br>
+  Learning DFIR from scratch, documenting everything in public.
 </p>
 
 ---
